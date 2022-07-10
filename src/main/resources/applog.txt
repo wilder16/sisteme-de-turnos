@@ -1,0 +1,2 @@
+[2022-07-06 05:41:45] [ INFO ] [SistemaDeTurnoApplication:15] Validando el login
+[2022-07-09 17:25:10] [ INFO ] [SistemaDeTurnoApplication:14] Validando login
